@@ -2,7 +2,7 @@
 
 Este tutorial explica como instalar dependências e executar a API de forma simples usando Python e pip.
 
-O modelo utilizado para as predições é resultado dos experimentos realizados no notebook `data_exploration.ipynb`.
+O modelo utilizado para as predições é resultado dos experimentos realizados no notebook `experiments.ipynb`.
 
 ---
 
